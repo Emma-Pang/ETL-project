@@ -1,9 +1,5 @@
-# ETL-project
-ETL project
-
-  
 # ETL Pokedex - Project #
-
+![pokedex](pokedex.png)
 * #### EXTRACT ####
     Extracted data on 1st generation Pokemon using a CSV file found on kaggle.  Gathered data on 2nd generation Pokemon with Poke API as a challenge
 
