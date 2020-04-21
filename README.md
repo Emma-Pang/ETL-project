@@ -12,7 +12,8 @@
 ![screenshot](screenshot.png)
 ![screenshot](screenshot2.png)
 
-Data Sources 
+Data Sources
+
 <https://www.kaggle.com/dizzypanda/gen-1-pokemon/data>
 
 <https://pokeapi.co/>
